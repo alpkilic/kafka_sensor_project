@@ -1,0 +1,6 @@
+{
+    "temperature": {"min": -10, "max": 45},
+    "humidity": {"min": 20, "max": 75},
+    "traffic": {"min": 0, "max": 350},
+    "air-quality": {"min": 0, "max": 150}
+}

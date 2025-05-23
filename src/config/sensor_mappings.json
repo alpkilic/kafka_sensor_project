@@ -1,0 +1,30 @@
+{
+    "temperature": {
+        "temp_1": "New York",
+        "temp_2": "Los Angeles",
+        "temp_3": "Chicago",
+        "temp_4": "Houston",
+        "temp_5": "Phoenix"
+    },
+    "humidity": {
+        "hum_1": "Philadelphia",
+        "hum_2": "San Antonio",
+        "hum_3": "San Diego",
+        "hum_4": "Dallas",
+        "hum_5": "San Jose"
+    },
+    "traffic": {
+        "traffic_1": "New York",
+        "traffic_2": "Los Angeles",
+        "traffic_3": "Chicago",
+        "traffic_4": "Houston",
+        "traffic_5": "Phoenix"
+    },
+    "air-quality": {
+        "air_1": "Philadelphia",
+        "air_2": "San Antonio",
+        "air_3": "San Diego",
+        "air_4": "Dallas",
+        "air_5": "San Jose"
+    }
+}

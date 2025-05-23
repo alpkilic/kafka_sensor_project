@@ -1,0 +1,10 @@
+{
+    "topic_alerts": "sensor-alerts",
+    "topic_data": "sensor-data",
+    "partition_mapping": {
+        "temperature": 0,
+        "humidity": 1,
+        "traffic": 2,
+        "air-quality": 3
+    }
+}
